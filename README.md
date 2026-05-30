@@ -4,4 +4,4 @@
 
 Проект выполнила студентка НИЯУ МИФИ Рогозенко Наталья (номер зачетной книжки - М2551085).
 
-![image.png](attachment:image.png)
+<img width="871" height="73" alt="изображение" src="https://github.com/user-attachments/assets/30b311e8-1580-4166-80b2-dae58ef7f93c" />
